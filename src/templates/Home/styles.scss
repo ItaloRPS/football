@@ -1,0 +1,24 @@
+
+.container-select{
+    width: 50%;
+    margin: auto;
+    padding: 18px;
+}
+
+.groups{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 445px);
+    justify-content: center;
+}
+
+.title-campionship{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+section{
+    background: aliceblue;
+    height: 100vh;
+}
